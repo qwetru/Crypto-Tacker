@@ -73,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ![Screenshot (56)](https://github.com/qwetru/Crypto-Tacker/assets/84232796/8095a39c-1bf6-475a-933c-16da9d4d42a2)
 
+![Screenshot (55)](https://github.com/qwetru/Crypto-Tacker/assets/84232796/5e107290-7c2e-4c79-8beb-eddea4ae93e2)
+
+
